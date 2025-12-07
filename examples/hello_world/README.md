@@ -62,7 +62,7 @@ const agent = createServiceAgent({ server });
 #### Clone the Socketnaut repository.
 
 ```bash
-git clone https://github.com/faranalytics/socketnaut.git
+git clone https://github.com/adpatter/socketnaut.git
 ```
 
 #### Change directory into the relevant example directory.
