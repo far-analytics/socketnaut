@@ -59,7 +59,7 @@ void fastify.listen({ port: 0, host: "127.0.0.1" });
 #### Clone the Socketnaut repository.
 
 ```bash
-git clone https://github.com/adpatter/socketnaut.git
+git clone https://github.com/far-analytics/socketnaut.git
 ```
 
 #### Change directory into the relevant example directory.
